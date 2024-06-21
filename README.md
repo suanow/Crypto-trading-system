@@ -5,7 +5,7 @@
 This repository is a public version with description about trading system for cryptocurrency markets. It does not contain full project.
 
 ## Acknowledgements
-I would like to express my deepest gratitude to my advisor, Andrew @5x12, whose insightful feedback and support were instrumental in the development of this project. Without his guidance, this project would not have been as successful and enjoyable.
+I would like to express my deepest gratitude to my advisor, [Andrew](https://github.com/5x12), whose insightful feedback and support were instrumental in the development of this project. Without his guidance, this project would not have been as successful and enjoyable.
 
 ## Overview
 This project was developed as part of my Master's thesis at HSE. The aim is to create an automated trading system capable of generating and validating signals and executing orders on preferred cryptocurrency exchanges.
