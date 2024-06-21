@@ -2,6 +2,8 @@
 
 > “I always say the beauty is in the mix.” – Nancy Pelosi
 
+This repository is a public version with description about trading system for cryptocurrency markets. It does not contain full project.
+
 ## Acknowledgements
 I would like to express my deepest gratitude to my advisor, Andrew @5x12, whose insightful feedback and support were instrumental in the development of this project. Without his guidance, this project would not have been as successful and enjoyable.
 
